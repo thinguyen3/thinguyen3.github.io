@@ -30,6 +30,9 @@ I trained various neural networks from pre-trained CNNs (Resnet50, VGG16, VGG19)
 
 ![Scores_Plot](/images/plot.png "Scores Plot")
 
+How model localize license plates on the testing set
+
+![Car_Plot](/images/car.png "Car Plot")
 
 ---
 
