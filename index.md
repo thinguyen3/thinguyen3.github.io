@@ -17,12 +17,19 @@ I applied several machine learning algorithms such as Bagging, Stacking with Ran
 
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+
 
 ---
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+#### Best Model to Predict Car License Plate Detection
+
+[![](https://img.shields.io/badge/Run_in_Google_Colab-EE4C2C?logo=GoogleColab)](https://colab.research.google.com/drive/1TWdll3VPMMg90qZxWiJrsrIdRUT5AUH9) [![](https://img.shields.io/badge/Model-blue?logo=Models)](https://github.com/thinguyen3/car_license_plate_detection/blob/main/scripts/ThiNguyen_FInalProject_ML2%20submit.ipynb) [![](https://img.shields.io/badge/View_on_GitHub-green?logo=GitHub)](https://github.com/thinguyen3/car_license_plate_detection) 
+
+The target of this project is to identify vehicles by detecting and recognizing their license plates. Results can be used for vehicle tracking and vehicle activity analysis.
+
+I trained various neural networks from pre-trained CNNs (Resnet50, VGG16, VGG19) with different architectures, and hyperparameters. VGG16 models showed the best accuracy score with 84% recognition rate.
+
+![Scores_Plot](/images/plot.png "Scores Plot")
+
 
 ---
 
