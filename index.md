@@ -17,8 +17,8 @@ I applied several machine learning algorithms such as Bagging, Stacking with Ran
 
 
 ---
-#### Data Visualization
-
+[Data Visualization](/sample_page)
+<img src="images/ROCcurves.png?raw=true"/>
 
 ---
 #### Best Model to Predict Car License Plate Detection
