@@ -21,6 +21,9 @@ I applied several machine learning algorithms such as Bagging, Stacking with Ran
 
 ##### U.S Flight Delay Dashboard
 
+[![](https://img.shields.io/badge/Presentation-red?logo=Presentation)](https://github.com/thinguyen3/d3_proj/blob/main/FINC560_Thi%20Diem%20My%20Nguyen_Final%20Project.pptx) 
+[![](https://img.shields.io/badge/View_on_GitHub-green?logo=GitHub)](https://github.com/thinguyen3/d3_proj) [![](https://img.shields.io/badge/JavaScript-F7DF1E?logo=JavaScript)](https://github.com/thinguyen3/d3_proj/tree/main/scripts)
+
 The goal of this project is to take a look inside into the U.S flight delay data by using many various visualizations such as chart, donut, force, choropleth map to answer these questions: how does the total number of flight delay change, which airport has the most flight delay, the relationship between origin and destination airports.
 
 Technology: HTML5, CSS6, JavaScript, and d3.
@@ -28,7 +31,6 @@ Technology: HTML5, CSS6, JavaScript, and d3.
 Figure 1: Bar chart and Donut chart showing Flight Delay, Total Flight, and Flight Delay within the Airlines
 
 ![barchart](/images/barchart.png "Bar Chart")
-
 
 Figure 2: Force Layout Graph showing the flight delay from the origin and the destination between the top 20 airports
 
