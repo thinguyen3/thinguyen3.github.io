@@ -2,7 +2,7 @@
 
 ---
 
-### Data Science 
+### Data Scientist
 
 #### Best Model to Predict Dropout Student
 
@@ -17,8 +17,26 @@ I applied several machine learning algorithms such as Bagging, Stacking with Ran
 
 
 ---
-[Data Visualization](/sample_page)
-<img src="images/ROCcurves.png?raw=true"/>
+#### Data Visualization using d3
+
+##### U.S Flight Delay Dashboard
+
+The goal of this project is to take a look inside into the U.S flight delay data by using many various visualizations such as chart, donut, force, choropleth map to answer these questions: how does the total number of flight delay change, which airport has the most flight delay, the relationship between origin and destination airports.
+
+Technology: HTML5, CSS6, JavaScript, and d3.
+
+Figure 1: Bar chart and Donut chart showing Flight Delay, Total Flight, and Flight Delay within the Airlines
+
+![barchart](/images/barchart.png "Bar Chart")
+
+
+Figure 2: Force Layout Graph showing the flight delay from the origin and the destination between the top 20 airports
+
+![graph](/images/ForceLayoutGraph.png "Graph")
+
+Figure 3: Choropleth map showing the flight delay in the U.S. States
+
+![ChoroplethMap](/images/ChoroplethMap.png "Map")
 
 ---
 #### Best Model to Predict Car License Plate Detection
