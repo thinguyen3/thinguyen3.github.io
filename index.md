@@ -103,22 +103,13 @@ The results show that Cost of the product, Prior purchases, Discount offered, We
 
 #### P2P Flatform for SMEs Project
 
+[![](https://img.shields.io/badge/Presentation-red?logo=Presentation)](https://github.com/thinguyen3/thinguyen3.github.io/blob/main/pdf/ProLendingPresentation.pdf)
+
 ![p2p](/images/p2p.png)
 
 In this project we have observed and analyzed competitors to identify potential issues in the market to launch our service named ProLending that is an easy-to-use peer to peer platform offering competitive rates and a wider range of loan options for small businesses.
 
 Our platform’s goal is to build strong relationships with our product users by offering loans from $1,000 to $250,000 for MSME’s and SME’s.
-
-[![](https://img.shields.io/badge/Presentation-red?logo=Presentation)](https://github.com/thinguyen3/thinguyen3.github.io/blob/main/pdf/ProLendingPresentation.pdf)
-
-
-
-
-
----
-
-
-
 
 ---
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
