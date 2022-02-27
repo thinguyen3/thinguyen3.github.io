@@ -59,6 +59,8 @@ How model localize license plates on the testing set
 
 #### Project on Employee Database Management System
 
+[![](https://img.shields.io/badge/Presentation-red?logo=Presentation)] [![](https://img.shields.io/badge/Report-red?logo=Report)](https://github.com/thinguyen3/employee_database_management/blob/main/docs/Employee%20Database%20Management%20System.pdf) 
+
 Objective is to set up an employee information system with data such as the status of employees, departments, leave, salary.
 
 Collected entities, tables, and data types, and designed a relational database to store the data.
