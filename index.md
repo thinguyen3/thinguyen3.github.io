@@ -6,7 +6,7 @@
 
 #### Best Model to Predict Dropout Student
 
-[![](https://img.shields.io/badge/Model-blue?logo=Models)](https://github.com/thinguyen3/student_dropout_prediction/blob/main/src/predict.Rmd) [![](https://img.shields.io/badge/Presentation-red?logo=Presentation)](https://github.com/thinguyen3/student_dropout_prediction/blob/main/doc/Presentation.pptx) [![](https://img.shields.io/badge/Report-red?logo=Report)](https://github.com/thinguyen3/student_dropout_prediction/blob/main/doc/report.docx) 
+[![](https://img.shields.io/badge/Model-blue?logo=Models)](https://github.com/thinguyen3/student_dropout_prediction/blob/main/src/predict.Rmd) [![](https://img.shields.io/badge/Presentation-red?logo=Presentation)](https://github.com/thinguyen3/student_dropout_prediction/blob/main/doc/ML1_Presentation.pdf) [![](https://img.shields.io/badge/Report-red?logo=Report)](https://github.com/thinguyen3/student_dropout_prediction/blob/main/doc/ML1_Report.pdf) 
 [![](https://img.shields.io/badge/View_on_GitHub-green?logo=GitHub)](https://github.com/thinguyen3/student_dropout_prediction)
 
 In this project, I presented a case study on automatically detecting whether a student is at-risk of dropout at New Jersey City University using R and R Markdown report.
