@@ -69,8 +69,35 @@ Collected entities, tables, and data types, and designed a relational database t
 
 ![Relational_Database](/images/ERD.png "ERD")
 
+---
 
+#### Best Model to Predict On-time Shipment with Machine Learning
 
+[![](https://img.shields.io/badge/Run_in_Google_Colab-EE4C2C?logo=GoogleColab)](https://colab.research.google.com/drive/1bxXKo5suz7yBmiH2ol0DJPokOOjafoz5)
+ [![](https://img.shields.io/badge/Model-blue?logo=Models)](https://github.com/thinguyen3/Predicting-on-time-shipment-with-Machine-Learning/blob/main/Google%20Colab.ipynb) [![](https://img.shields.io/badge/Presentation-red?logo=Presentation)](https://github.com/thinguyen3/Predicting-on-time-shipment-with-Machine-Learning/blob/main/Presentation.pdf) [![](https://img.shields.io/badge/Report-red?logo=Report)](https://github.com/thinguyen3/Predicting-on-time-shipment-with-Machine-Learning/blob/main/Report.pdf) [![](https://img.shields.io/badge/View_on_GitHub-green?logo=GitHub)](https://github.com/thinguyen3/Predicting-on-time-shipment-with-Machine-Learning) 
+
+This research project focused on how to apply Machine Learning to make predictions regarding shipping on time, from an international e-commerce company to their customers. Using logistic regression and train/testing method with building three models to predict the shipping, we want to discover key insights from which factors significantly affect ‘Reached on time’ and predict whether a product will be delivered on time or not.
+The target of this project is to identify vehicles by detecting and recognizing their license plates. Results can be used for vehicle tracking and vehicle activity analysis.
+
+Models: Logistic Regression, Decision Tree, SVM.
+
+Heatmap of feature (and outcome) correlations
+
+![correlations](/images/corr.png)
+
+![regression](/images/regression.png)
+
+![Coef](/images/coef.png)
+
+Model selection
+
+|          Model	    |Accuracy Score	|Type I error|
+|---------------------|---------------|------------|
+|Logistic Regression	|64%	          |454         |
+|Decision Tree	      |68%	          |65          |
+|SVM	                |64%	          |333         |
+
+The results show that Cost of the product, Prior purchases, Discount offered, Weight in gram and Product important function have a significant influence on the model, especially Cost of the product and Prior purchases. Cost of the product has a negative influence on the prediction, higher Cost of the product is correlated with a not on time shipment, higher on Cost of the product, less on not on time shipment. 
 
 ### Category Name 2
 
