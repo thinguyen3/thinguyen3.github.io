@@ -11,7 +11,9 @@
 
 In this project, I presented a case study on automatically detecting whether a student is at-risk of dropout at New Jersey City University using R and R Markdown report.
 
-I applied several machine learning algorithms such as Bagging, Stacking with Random Forest, Classification Tree, Logistic Regression, and SVM to find the best student dropout prediction model, these models achieve high predictive power, combining values of AUC ROC for decision-making with capable of achieving with accuracy score of over 96% in its predictions. 
+Models: Bagging, Stacking with Random Forest, Classification Tree, Logistic Regression, and SVM.
+
+These models achieve high predictive power, combining values of AUC ROC for decision-making with capable of achieving with accuracy score of over 96% in its predictions. 
 
 ![ROC Curves plot](/images/ROCcurves.png "ROC Curves plot")
 
