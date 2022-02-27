@@ -89,7 +89,7 @@ Heatmap of feature (and outcome) correlations
 
 ![Coef](/images/coef.png)
 
-Model selection
+#### Model selection
 
 |          Model	    |Accuracy Score	|Type I error|
 |---------------------|---------------|------------|
