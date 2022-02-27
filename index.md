@@ -11,10 +11,11 @@
 
 In this project, I presented a case study on automatically detecting whether a student is at-risk of dropout at New Jersey City University using R and R Markdown report.
 
-I applied several machine learning algorithms such as Bagging, Stacking with Random Forest, Classification Tree, Logistic Regression, and SVM to find the best student dropout prediction model, these models achieve high predictive power, combining values of AUC ROC for decision-making with capable of achieving with accuracy score of over 96% in its predictions. 
+Models: Bagging, Stacking with Random Forest, Classification Tree, Logistic Regression, and SVM.
+
+These models achieve high predictive power, combining values of AUC ROC for decision-making with capable of achieving with accuracy score of over 96% in its predictions. 
 
 ![ROC Curves plot](/images/ROCcurves.png "ROC Curves plot")
-
 
 ---
 #### Data Visualization using d3
@@ -41,6 +42,7 @@ Figure 3: Choropleth map showing the flight delay in the U.S. States
 ![ChoroplethMap](/images/ChoroplethMap.png "Map")
 
 ---
+
 #### Best Model to Predict Car License Plate Detection
 
 [![](https://img.shields.io/badge/Run_in_Google_Colab-EE4C2C?logo=GoogleColab)](https://colab.research.google.com/drive/1TWdll3VPMMg90qZxWiJrsrIdRUT5AUH9) [![](https://img.shields.io/badge/Model-blue?logo=Models)](https://github.com/thinguyen3/car_license_plate_detection/blob/main/scripts/ThiNguyen_FInalProject_ML2%20submit.ipynb) [![](https://img.shields.io/badge/View_on_GitHub-green?logo=GitHub)](https://github.com/thinguyen3/car_license_plate_detection) 
@@ -56,6 +58,19 @@ How model localize license plates on the testing set
 ![Car_Plot](/images/car.png "Car Plot")
 
 ---
+
+#### Project on Employee Database Management System
+
+[![](https://img.shields.io/badge/Presentation-red?logo=Presentation)](https://github.com/thinguyen3/employee_database_management/blob/main/docs/Presentation.pdf) [![](https://img.shields.io/badge/Report-red?logo=Report)](https://github.com/thinguyen3/employee_database_management/blob/main/docs/Employee%20Database%20Management%20System.pdf) 
+
+Objective is to set up an employee information system with data such as the status of employees, departments, leave, salary.
+
+Collected entities, tables, and data types, and designed a relational database to store the data.
+
+![Relational_Database](/images/ERD.png "ERD")
+
+
+
 
 ### Category Name 2
 
