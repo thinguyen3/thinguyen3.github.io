@@ -59,18 +59,6 @@ How model localize license plates on the testing set
 
 ---
 
-#### Project on Employee Database Management System
-
-[![](https://img.shields.io/badge/Presentation-red?logo=Presentation)](https://github.com/thinguyen3/employee_database_management/blob/main/docs/Presentation.pdf) [![](https://img.shields.io/badge/Report-red?logo=Report)](https://github.com/thinguyen3/employee_database_management/blob/main/docs/Employee%20Database%20Management%20System.pdf) 
-
-Objective is to set up an employee information system with data such as the status of employees, departments, leave, salary.
-
-Collected entities, tables, and data types, and designed a relational database to store the data.
-
-![Relational_Database](/images/ERD.png "ERD")
-
----
-
 #### Best Model to Predict On-time Shipment with Machine Learning
 
 [![](https://img.shields.io/badge/Run_in_Google_Colab-EE4C2C?logo=GoogleColab)](https://colab.research.google.com/drive/1bxXKo5suz7yBmiH2ol0DJPokOOjafoz5)
@@ -98,6 +86,18 @@ Heatmap of feature (and outcome) correlations
 |SVM	                |64%	          |333         |
 
 The results show that Cost of the product, Prior purchases, Discount offered, Weight in gram and Product important function have a significant influence on the model, especially Cost of the product and Prior purchases. Cost of the product has a negative influence on the prediction, higher Cost of the product is correlated with a not on time shipment, higher on Cost of the product, less on not on time shipment. 
+
+#### Project on Employee Database Management System
+
+[![](https://img.shields.io/badge/Presentation-red?logo=Presentation)](https://github.com/thinguyen3/employee_database_management/blob/main/docs/Presentation.pdf) [![](https://img.shields.io/badge/Report-red?logo=Report)](https://github.com/thinguyen3/employee_database_management/blob/main/docs/Employee%20Database%20Management%20System.pdf) 
+
+Objective is to set up an employee information system with data such as the status of employees, departments, leave, salary.
+
+Collected entities, tables, and data types, and designed a relational database to store the data.
+
+![Relational_Database](/images/ERD.png "ERD")
+
+---
 
 ### Financial Technology
 
