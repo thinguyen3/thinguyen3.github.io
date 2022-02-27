@@ -22,8 +22,8 @@ These models achieve high predictive power, combining values of AUC ROC for deci
 
 ##### U.S Flight Delay Dashboard
 
-[![](https://img.shields.io/badge/Presentation-red?logo=Presentation)](https://github.com/thinguyen3/d3_proj/blob/main/FINC560_Thi%20Diem%20My%20Nguyen_Final%20Project.pptx) 
-[![](https://img.shields.io/badge/View_on_GitHub-green?logo=GitHub)](https://github.com/thinguyen3/d3_proj) [![](https://img.shields.io/badge/JavaScript-F7DF1E?logo=JavaScript)](https://github.com/thinguyen3/d3_proj/tree/main/scripts)
+[![](https://img.shields.io/badge/Presentation-red?logo=Presentation)](https://github.com/thinguyen3/d3_proj/blob/main/d3_presentation.pdf) 
+[![](https://img.shields.io/badge/View_on_GitHub-green?logo=GitHub)](https://github.com/thinguyen3/d3_proj) [![](https://img.shields.io/badge/JavaScript-F7DF1E?logo=JavaScript)](https://github.com/thinguyen3/d3_proj/tree/main/scripts) [![](https://img.shields.io/badge/HTML-E34F26?logo=HTML)](https://github.com/thinguyen3/d3_proj/blob/main/d3.html)
 
 The goal of this project is to take a look inside into the U.S flight delay data by using many various visualizations such as chart, donut, force, choropleth map to answer these questions: how does the total number of flight delay change, which airport has the most flight delay, the relationship between origin and destination airports.
 
