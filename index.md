@@ -99,13 +99,21 @@ Heatmap of feature (and outcome) correlations
 
 The results show that Cost of the product, Prior purchases, Discount offered, Weight in gram and Product important function have a significant influence on the model, especially Cost of the product and Prior purchases. Cost of the product has a negative influence on the prediction, higher Cost of the product is correlated with a not on time shipment, higher on Cost of the product, less on not on time shipment. 
 
-### Category Name 2
+### Financial Technology
 
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+#### P2P Flatform for SMEs Project
+
+![p2p](/images/p2p.png)
+
+In this project we have observed and analyzed competitors to identify potential issues in the market to launch our service named ProLending that is an easy-to-use peer to peer platform offering competitive rates and a wider range of loan options for small businesses.
+
+Our platform’s goal is to build strong relationships with our product users by offering loans from $1,000 to $250,000 for MSME’s and SME’s.
+
+[![](https://img.shields.io/badge/Presentation-red?logo=Presentation)](https://github.com/thinguyen3/thinguyen3.github.io/blob/main/pdf/ProLendingPresentation.pdf)
+
+
+
+
 
 ---
 
