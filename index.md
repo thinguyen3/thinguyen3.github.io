@@ -45,7 +45,7 @@ Figure 3: Choropleth map showing the flight delay in the U.S. States
 
 #### Best Model to Predict Car License Plate Detection
 
-[![](https://img.shields.io/badge/Run_in_Google_Colab-EE4C2C?logo=GoogleColab)](https://colab.research.google.com/drive/1TWdll3VPMMg90qZxWiJrsrIdRUT5AUH9) [![](https://img.shields.io/badge/Model-blue?logo=Models)](https://github.com/thinguyen3/car_license_plate_detection/blob/main/scripts/ThiNguyen_FInalProject_ML2%20submit.ipynb) [![](https://img.shields.io/badge/View_on_GitHub-green?logo=GitHub)](https://github.com/thinguyen3/car_license_plate_detection) 
+[![](https://img.shields.io/badge/Run_in_Google_Colab-EE4C2C?logo=GoogleColab)](https://drive.google.com/file/d/1TWdll3VPMMg90qZxWiJrsrIdRUT5AUH9/view?usp=sharing) [![](https://img.shields.io/badge/Model-blue?logo=Models)](https://github.com/thinguyen3/car_license_plate_detection/blob/main/scripts/ThiNguyen_FInalProject_ML2%20submit.ipynb) [![](https://img.shields.io/badge/View_on_GitHub-green?logo=GitHub)](https://github.com/thinguyen3/car_license_plate_detection) 
 
 The target of this project is to identify vehicles by detecting and recognizing their license plates. Results can be used for vehicle tracking and vehicle activity analysis.
 
