@@ -65,7 +65,7 @@ How model localize license plates on the testing set
  [![](https://img.shields.io/badge/Model-blue?logo=Models)](https://github.com/thinguyen3/Predicting-on-time-shipment-with-Machine-Learning/blob/main/Google%20Colab.ipynb) [![](https://img.shields.io/badge/Presentation-red?logo=Presentation)](https://github.com/thinguyen3/Predicting-on-time-shipment-with-Machine-Learning/blob/main/Presentation.pdf) [![](https://img.shields.io/badge/Report-red?logo=Report)](https://github.com/thinguyen3/Predicting-on-time-shipment-with-Machine-Learning/blob/main/Report.pdf) [![](https://img.shields.io/badge/View_on_GitHub-green?logo=GitHub)](https://github.com/thinguyen3/Predicting-on-time-shipment-with-Machine-Learning) 
 
 This research project focused on how to apply Machine Learning to make predictions regarding shipping on time, from an international e-commerce company to their customers. Using logistic regression and train/testing method with building three models to predict the shipping, we want to discover key insights from which factors significantly affect ‘Reached on time’ and predict whether a product will be delivered on time or not.
-The target of this project is to identify vehicles by detecting and recognizing their license plates. Results can be used for vehicle tracking and vehicle activity analysis.
+
 
 Models: Logistic Regression, Decision Tree, SVM.
 
