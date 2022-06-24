@@ -2,6 +2,7 @@
 
 ---
 
+
 ### Data Scientist
 
 #### Best Model to Predict Dropout Student
@@ -86,6 +87,75 @@ Heatmap of feature (and outcome) correlations
 |SVM	                |64%	          |333         |
 
 The results show that Cost of the product, Prior purchases, Discount offered, Weight in gram and Product important function have a significant influence on the model, especially Cost of the product and Prior purchases. Cost of the product has a negative influence on the prediction, higher Cost of the product is correlated with a not on time shipment, higher on Cost of the product, less on not on time shipment. 
+
+### Data Analyst
+
+#### BAC & CITI Financial Valuation
+
+1. Purpose of valuation: The purpose of this valuation is to know the values of two companies selected by investors in order to determine the economic value of the company as it is an informed estimate of the total worth of a company and helps us to know which company has better performance.
+
+2. Benefits of bsiness valuation: The valuation helps us to know the wealth of a company. Knowing what an asset is worth and what determines that value is a pre-requisite for intelligent decision making and in choosing investments for a portfolio in deciding on the appropriate price to pay or receive in a takeover and in making investment, financing, and dividend choices when running a business.
+
+3. Data Sources:
+
+|         Material          |     Source    |
+|---------------------------|---------------|
+|BAC Financial Statement	   |https://www.sec.gov/cgi-bin/viewer?action=view&cik=70858&accession_number=0000070858-21-000023&xbrl_type=v#|
+|CITI Financial Statement   |https://www.sec.gov/cgi-bin/viewer?action=view&cik=831001&accession_number=0000831001-21-000042&xbrl_type=v#      
+|BAC historical Price       |https://finance.yahoo.com/quote/BAC/history?p=BAC
+|CITI historical Price      |https://finance.yahoo.com/quote/C/history?p=C
+|SPY                        |https://finance.yahoo.com/quote/SPY/history?p=SPY
+
+4. Valuation Methods Categories:
+
+Absolute valuation models:
+
+It helps to find the true value of an investment based only on fundamentals, which includes dividends, cash flow, and growth rate for a single company only. Some methods under this category are:
+
+• DCF( Discounted Cash Flow method)
+
+• Asset-based model
+
+• Dividend discount Model
+
+Relative valuation models:
+
+• P/E (price to earning) ratio used for stock valuation
+
+• E V/sales (enterprise value to sales ratio)
+
+• Price to book ratio
+
+Methods Used (Absolute Valuation Models):
+
+• Discounted Cash Flow (DCF): (Enterprise value approach)
+
+BAC:
+
+![BAC_DCF](/images/BAC_DCF.png "BAC DCF")
+
+CITI:
+
+![CITI_DCF](/images/BAC_DCF.png "CITI DCF")
+
+• Weighted Average Cost of Capital (WACC)
+
+![WACC](/images/WACC.png "WACC")
+
+Balance statement for calculation of net debt
+
+BAC: 
+
+![BAC_Balance](/images/BAC_Balance.png "BAC_Balance Statement")
+
+CITI:
+
+![CITIBalance](/images/CITI_Balance.png "CITI_Balance Statement")
+
+5. Invesment decision:
+
+As we are looking for less risk, so will opt for DCF  valuation, according to which BAC has all  positive projected cash flows along with EV. So, If I   invest on BAC in 2019, can still continue in 2020.
+
 
 #### Project on Employee Database Management System
 
