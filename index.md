@@ -92,6 +92,10 @@ The results show that Cost of the product, Prior purchases, Discount offered, We
 
 #### BAC & CITI Financial Valuation
 
+[![](https://img.shields.io/badge/Report-red?logo=Report)](https://github.com/thinguyen3/thinguyen3.github.io/blob/main/docs/BAC-CITI_FinancialValuation.pdf) 
+[![](https://img.shields.io/badge/Excel-green?logo=Excel)](https://github.com/thinguyen3/thinguyen3.github.io/blob/main/docs/BAC_CITI_FinancialModeling.xlsx)
+
+
 1. Purpose of valuation: The purpose of this valuation is to know the values of two companies selected by investors in order to determine the economic value of the company as it is an informed estimate of the total worth of a company and helps us to know which company has better performance.
 
 2. Benefits of bsiness valuation: The valuation helps us to know the wealth of a company. Knowing what an asset is worth and what determines that value is a pre-requisite for intelligent decision making and in choosing investments for a portfolio in deciding on the appropriate price to pay or receive in a takeover and in making investment, financing, and dividend choices when running a business.
@@ -173,7 +177,7 @@ Collected entities, tables, and data types, and designed a relational database t
 
 #### P2P Flatform for SMEs Project
 
-[![](https://img.shields.io/badge/Presentation-red?logo=Presentation)](https://github.com/thinguyen3/thinguyen3.github.io/blob/main/pdf/ProLendingPresentation.pdf)
+[![](https://img.shields.io/badge/Presentation-red?logo=Presentation)](https://github.com/thinguyen3/thinguyen3.github.io/blob/main/docs/ProLendingPresentation.pdf)
 
 ![p2p](/images/p2p.png)
 
