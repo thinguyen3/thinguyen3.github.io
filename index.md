@@ -156,7 +156,7 @@ CITI:
 
 ![CITIBalance](/images/CITI_Balance.png "CITI_Balance Statement")
 
-5. Invesment decision:
+ 5. Invesment decision:
 
 As we are looking for less risk, so will opt for DCF  valuation, according to which BAC has all  positive projected cash flows along with EV. So, If I   invest on BAC in 2019, can still continue in 2020.
 
